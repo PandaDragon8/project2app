@@ -1,0 +1,27 @@
+.homeContent{
+    display:flex;
+    justify-content: space-around;
+    /* flex-direction: column-reverse; */
+}
+
+.quizSetting{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 40px;
+  
+}
+
+.quizBanner{
+    align-items: center;
+    width: 50%;
+}
+
+.selectSettings{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-evenly;
+    flex: 0.75;
+    padding: 22px;
+}

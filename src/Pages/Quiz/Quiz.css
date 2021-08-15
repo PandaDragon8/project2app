@@ -1,0 +1,17 @@
+.quiz{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.subtitle{
+    padding: 10px 10px;
+}
+
+.quizInfo{
+    justify-content: space-between;
+    text-transform: uppercase;
+    margin: 15px;
+    width:90%;
+    display: flex;
+}
