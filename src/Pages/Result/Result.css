@@ -2,4 +2,15 @@
     text-align: center;
     justify-content: center;
     flex-direction: column;
+    height: 60vh;
+    display: flex;
+}
+
+.title{
+    margin-bottom: 50px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    font-size: 150%;
+    background-color: powderblue;
 }
